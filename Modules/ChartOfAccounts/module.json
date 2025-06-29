@@ -1,0 +1,17 @@
+{
+    "name": "ChartOfAccounts",
+    "alias": "chartofaccounts",
+    "description": "Chart of Accounts Module Added by Eng.Moahmed Ali  AZHA SOFT",
+    "keywords": [],
+    "active": 1,
+    "priority": 0,
+    "providers": [
+        "Modules\\ChartOfAccounts\\Providers\\ChartOfAccountsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "id": "2",
+    "title": "ChartOfAccounts",
+    "version":1.0
+}

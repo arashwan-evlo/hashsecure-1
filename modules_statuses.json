@@ -1,0 +1,18 @@
+{
+    "Crm": true,
+    "Essentials": true,
+    "Manufacturing": true,
+    "Repair": true,
+    "Superadmin": true,
+    "Installment": true,
+    "Assets": true,
+    "Project": true,
+    "Accounting": true,
+    "ProductCatalogue": true,
+    "Shipping": true,
+    "ChartOfAccounts": true,
+    "Inventory": true,
+    "TransactionGenerator": true,
+    "Connector": true,
+    "Sitemanager": true
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Sitemanager",
+    "alias": "sitemanager",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Sitemanager\\Providers\\SitemanagerServiceProvider"
+    ],
+    "files": []
+}
