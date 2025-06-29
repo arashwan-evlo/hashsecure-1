@@ -157,6 +157,7 @@ class UserController extends ApiController
     public function show($user_ids)
     {
         $user = Auth::user();
+        dd($user) ;
 
         $business_id = $user->business_id;
         $user_ids = explode(',', $user_ids);
